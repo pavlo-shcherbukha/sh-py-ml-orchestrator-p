@@ -1,0 +1,11 @@
+-r requirements.txt
+python-dotenv
+notebook
+pandas
+requests-toolbelt
+numpy
+matplotlib
+nbconvert
+pandoc
+ipywidgets
+ipykernel
