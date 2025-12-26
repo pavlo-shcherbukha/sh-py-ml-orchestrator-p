@@ -1,0 +1,23 @@
+{
+  "version": "2.0",
+  "extensionBundle": {
+    "id": "Microsoft.Azure.Functions.ExtensionBundle",
+    "version": "[4.*, 5.0.1)"
+  },
+  "logging": {
+      "fileLoggingMode": "always",
+      "logLevel": {
+        "default": "Information",  
+        "Host.Aggregator": "Information",
+        "Host.Results": "Information",
+        "Function.video_orchestrator": "Debug",
+        "Function.client_function": "Debug",
+        "Function.client_function.User": "Debug" 
+      },
+      "console": {
+          "isEnabled": true,
+          "DisableColors": false
+      }
+  },
+  "functionTimeout": "00:15:00"
+}
