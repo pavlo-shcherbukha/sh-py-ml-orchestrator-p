@@ -1,0 +1,5 @@
+{
+    "timeFrom": "2025-10-01T00:00:00Z",
+    "timeTill": "2025-12-31T00:00:00Z",
+    "runtimeStatus": ["Completed", "Failed", "Terminated"]
+}
