@@ -1,0 +1,9 @@
+{
+        "instance_id": "control_urls.get('id')",
+        "blobUrl": "http://127.0.0.1:10000/devstoreaccount1/dacha-video/20250819-110439.avi", 
+        "blobName": "dacha-video/20250819-111832.avi", 
+        "status": "PROCESSED", 
+        "start_timestamp": "2025-12-14T18:00:30.761319", 
+        "stop_timestamp": "2025-12-14T18:00:37.427266", 
+        "details": {}
+    }
